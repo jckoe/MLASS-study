@@ -1,5 +1,5 @@
 # MLASS-study
-Code of Autism Social Interaction study
+Code for feature extraction of Autism Social Interaction study
 
 # 1. Software Requirements
 This code is has been tested on _Mac_ (Version 12.6) and _Linux_, but is also supported for _Windows_. 
