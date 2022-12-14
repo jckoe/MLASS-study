@@ -2,7 +2,7 @@
 Code for feature extraction of Autism Social Interaction study
 
 # 1. Software Requirements
-This code is has been tested on _Mac_ (Version 12.6) and _Linux_, but is also supported for _Windows_. 
+This code is has been tested on _Mac_ (Version 12.6) and _Linux_ (Ubuntu 20.04), but is also supported for _Windows_. 
 
 It uses data as outputted from _OpenFace_ (https://github.com/TadasBaltrusaitis/OpenFace) and _Motion Energy Analysis_ (https://psync.ch/downloads/).
 
