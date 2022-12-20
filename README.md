@@ -31,4 +31,4 @@ The following steps are performed with this code:
 
 ## Cross-validation scripts:
 The following scripts are for creating the CV structure unique to this study by splitting the training and testing folds using dyads instead of individual participants. The output CV structure can be imported by NeuroMiner directly. 
-
+To create the CV structure file, first run the .ipynb (jupyter notebook) file, and then take the output from this file as input to run the .m (matlab) script. 
