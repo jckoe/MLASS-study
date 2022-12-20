@@ -29,3 +29,6 @@ The following steps are performed with this code:
 2. Calculate head-body coordination per person per task
 3. Feature extraction from cross-correlation matrix
 
+## Cross-validation scripts:
+The following scripts are for creating the CV structure unique to this study by splitting the training and testing folds using dyads instead of individual participants. The output CV structure can be imported by NeuroMiner directly. 
+
