@@ -1,5 +1,5 @@
 # MLASS-study
-Code for feature extraction of Autism Social Interaction study
+Code for feature extraction of Autism Social Interaction study (Koehler et al., 2022: https://doi.org/10.1101/2022.12.20.22283571)
 
 # 1. Software Requirements
 This code is has been tested on _macOS_ (Version 12.6) and _Linux_ (Ubuntu 20.04), but is also supported for _Windows_. 
